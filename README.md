@@ -3,4 +3,5 @@
  
 ## tokenOpenZep
 OpenZeppellin Custom Extensions & Assignment
+Just compile, migrate and run the unit test to verify functionality.
  
